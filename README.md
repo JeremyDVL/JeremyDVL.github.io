@@ -2,7 +2,7 @@
 # <p align="center"> <b/>Hi, welcome to my page 👏<b/> </p>
 
 <p align="center">
-  <img width="200" height="200" src="biopic7.jpeg">
+  <img width="200" height="250" src="biopic7.jpg"
 </p>
 
 ## <ins>What am I working on now?
